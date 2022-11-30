@@ -132,7 +132,7 @@ We reserve the right, but not the obligation, to: (1) monitor the Bot for violat
 
 ## PRIVACY POLICY
 
-We care about data privacy and security. Please review our Privacy Policy: https://dlchamp.com/privacy . By using the Bot, you agree to be bound by our Privacy Policy, which is incorporated into these Terms of Service . Please be advised the Bot is hosted in the United States . If you access the Bot from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States , then through your continued use of the Bot,  you are transferring your data to the United States , and you agree to have your data transferred to and processed in the United States .
+We care about data privacy and security. Please review our [Privacy Policy](https://github.com/dlchamp/bot_terms/blob/main/csv%2Croles-privacy.md) . By using the Bot, you agree to be bound by our Privacy Policy, which is incorporated into these Terms of Service . Please be advised the Bot is hosted in the United States . If you access the Bot from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States , then through your continued use of the Bot,  you are transferring your data to the United States , and you agree to have your data transferred to and processed in the United States .
 
 
 ## TERM AND TERMINATION
